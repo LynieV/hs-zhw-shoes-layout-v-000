@@ -43,6 +43,10 @@
   width: 66%;
 }
 
+.col-4 {
+  width: 33%;
+}
+
 #featured {
   display: block;
   float: left;
