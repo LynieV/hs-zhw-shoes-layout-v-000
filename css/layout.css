@@ -40,18 +40,17 @@
 }
 
 .row-1 {
-  height: ;
+  display: block;
+  height: 500px;
 }
 
 .col-8 {
-  display: block;
   float: left;
   width: 64%;
   margin: 1% 2% 1% 0;
 }
 
 .col-4 {
-  display: block;
   float: left;
   width: 32%;
   margin: 1% 2% 1% 0;
