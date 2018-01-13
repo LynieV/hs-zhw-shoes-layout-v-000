@@ -39,6 +39,11 @@
   width: 100%;
 }
 
+.col-8 {
+  width: 66%;
+}
+
+/*
 #featured {
   display: block;
   float: left;
@@ -46,10 +51,6 @@
   margin-top: 2%;
   margin-right: 1%;
   margin-bottom: 1%;
-}
-
-.col-8 {
-  width: 66%;
 }
 
 #main {
@@ -108,3 +109,4 @@
   width: 32%;
   margin: 2% 0 2% 1%;
 }
+*/
