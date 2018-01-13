@@ -47,7 +47,7 @@
 }
 
 .col-4 {
-  
+  display: block;
   float: left;
   width: 32%;
   margin: 1%;
