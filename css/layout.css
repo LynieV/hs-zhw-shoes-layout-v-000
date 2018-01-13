@@ -44,6 +44,11 @@
   height: 580px;
 }
 
+.row-2 {
+  display: block;
+  height: 450px;
+}
+
 .col-8 {
   float: left;
   width: 64%;
