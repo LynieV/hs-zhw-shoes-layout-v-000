@@ -53,7 +53,8 @@
 .col-4 {
   float: left;
   width: 32%;
-  margin-top: 0 2% 1% 0;
+  margin-top: 0;
+  margin-bottom: 2%;
 }
 
 #featured {
