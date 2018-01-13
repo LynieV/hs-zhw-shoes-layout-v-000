@@ -40,11 +40,13 @@
 }
 
 .col-8 {
+  float: left;
   width: 64%;
   margin: 1% 2% 1% 0;
 }
 
 .col-4 {
+  float: left;
   width: 32%;
   margin: 1%;
 }
