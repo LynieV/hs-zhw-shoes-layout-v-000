@@ -41,10 +41,12 @@
 
 .col-8 {
   width: 66%;
+  margin: 1%;
 }
 
 .col-4 {
   width: 33%;
+  margin: 1%;
 }
 
 #featured {
